@@ -1,6 +1,6 @@
 Hi Everyone💫
 ============================================================================================================================
-<img width="85%" align="center" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+<img width="100%" align="center" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 I'm study Computer Science
 
 * 🌍  I'm based in Bangkok, Thailand
