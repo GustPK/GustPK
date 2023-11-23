@@ -1,6 +1,7 @@
 Hi Everyone💫
 ============================================================================================================================
 <img width="90%" align="center" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustPK&label=Profile%20views&color=0e75b6&style=flat" alt="GustPK" /> </p>
 I'm study Computer Science
 
 * 🌍  I'm based in Bangkok, Thailand
